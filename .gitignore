@@ -1,0 +1,10 @@
+node_modules
+.wxt
+.output
+coverage
+release
+.env
+.env.local
+.DS_Store
+playwright-report
+test-results
